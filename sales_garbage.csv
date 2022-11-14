@@ -1,0 +1,7 @@
+This file has a garbage at the begining and
+;quarter_1;quarter_2;quarter_3;quarter_4
+branch nort;1001;1002;1003;1004
+branch east;2001;2002;2003;2004
+branch west;3001;3002;3003;3004
+branch south;4001;4002;4003;4004
+the last row.
